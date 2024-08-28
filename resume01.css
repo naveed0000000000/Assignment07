@@ -1,0 +1,19 @@
+.first{display: flex;width:50%; border-bottom: solid; border-color: black;}
+
+.first01{width: 75%;}
+.first h1{line-height: 3px; font-size: 50px;}
+.first01 p{line-height: 3px; font-style: italic; font-size:x-large;}
+
+.first02 p{text-decoration: underline;}
+.first02{width: 25%; line-height: 7px; padding-top: 15px;}
+button{color: white; background-color: grey; width: 150px; height:25px;}
+
+.second{display: flex;width:50%; height:80px; border-bottom: solid; border-color: black; padding:15px;}
+.profile{width:25%; text-align: center;font-style: italic;font-weight: bold;}
+.ptext{width: 75%; justify-content: center;}
+
+.third{display: flex;width:50%; height:150px; border-bottom: solid; border-color: black;}
+.a{width:25%; text-align: center;font-style: italic;font-weight: bold;padding-top: 18px;}
+.b{width:25%; text-align: left; }
+.c{width:25%; text-align: left; }
+.d{width:25%; text-align: left; }
